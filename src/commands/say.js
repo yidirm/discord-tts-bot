@@ -3,7 +3,7 @@ const { splitToPlayable } = require('../common/utils');
 const allowOver200 = process.env.ALLOW_OVER_200 || require('../../config/settings.json').allow_more_than_200_chars;
 
 module.exports = {
-  name: 'say',
+  name: '',
   description: `Send a TTS message in your voice channel${allowOver200 ? '.' : ' (Up to 200 characters).'}`,
   emoji: ':speaking_head:',
   execute(message, options) {
