@@ -123,3 +123,5 @@ You can add this bot to your server by clicking the image below:
 ## Author
 
 This bot was made by [moonstar-x](https://github.com/moonstar-x).
+chenged by [@yidirm](https://github.com/yidirm) for[kabyle-gamers](https://discord.gg/VJGAqPb).
+
